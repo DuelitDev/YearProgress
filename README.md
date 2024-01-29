@@ -8,8 +8,8 @@
 import year_progress
 
 
-print(f"Year progress: {year_progress.year_progress():.2f}%")
-# Year progress: 7.92%
+print(f"2024 is {int(year_progress.year_progress())}% complete.")
+# 2024 is 7% complete.
 ```
 
 # Author
