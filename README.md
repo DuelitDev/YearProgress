@@ -8,8 +8,8 @@
 import year_progress
 
 
-print(f"Year progress: {year_progress.year_progress()}")
-# 7.9087298028203605
+print(f"Year progress: {year_progress.year_progress():.2f}%")
+# Year progress: 7.92%
 ```
 
 # Author
