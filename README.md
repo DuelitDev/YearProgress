@@ -20,4 +20,4 @@ print(f"2025 is {int(year_progress.year_progress())}% complete.")
 
 ## License
 
-[CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+WTFPL
