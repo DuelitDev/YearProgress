@@ -1,19 +1,23 @@
 # Year Progress
 
-# Install
+## Install
+
 `pip install year_progress`
 
-# Example
+## Example
+
 ```python
 import year_progress
 
 
-print(f"2024 is {int(year_progress.year_progress())}% complete.")
-# 2024 is 7% complete.
+print(f"2025 is {int(year_progress.year_progress())}% complete.")
+# 2025 is 7% complete.
 ```
 
-# Author
+## Author
+
 - [DuelitDev](https://github.com/DuelitDev)
 
-# License
+## License
+
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
